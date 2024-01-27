@@ -4,7 +4,7 @@
 This repository presents a comprehensive analysis and solution to the [Kaggle Titanic survival prediction competition](https://www.kaggle.com/c/titanic/overview). The notebook is designed to be beginner-friendly, avoiding unnecessary technical jargon and providing detailed explanations of each analysis step. It also includes brief discussions on fundamental data science concepts.
 
 ## Problem Definition
-The challenge is to predict the survival status of Titanic passengers based on available information. We aim to train a machine learning model to understand the relationship between passenger features and survival outcomes, enabling predictions on new, unseen data.
+The challenge is to predict the survival status of Titanic passengers based on available information. We target to train a machine learning model to understand the relationship between passenger features and survival outcomes, enabling predictions on new, unseen data.
 
 This constitutes a binary classification problem, where passengers are categorized as either having survived or not survived the Titanic.
 
